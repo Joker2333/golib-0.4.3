@@ -10,7 +10,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/fatedier/golib/clock"
+	"github.com/Joker2333/golib-0.4.3/clock"
 )
 
 type LogWriter interface {

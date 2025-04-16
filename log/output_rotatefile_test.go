@@ -6,7 +6,7 @@ import (
 	"testing"
 	"time"
 
-	testingclock "github.com/fatedier/golib/clock/testing"
+	testingclock "github.com/Joker2333/golib-0.4.3/clock/testing"
 	"github.com/stretchr/testify/require"
 )
 

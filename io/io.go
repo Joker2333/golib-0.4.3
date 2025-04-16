@@ -18,8 +18,8 @@ import (
 	"io"
 	"sync"
 
-	"github.com/fatedier/golib/crypto"
-	"github.com/fatedier/golib/pool"
+	"github.com/Joker2333/golib-0.4.3/crypto"
+	"github.com/Joker2333/golib-0.4.3/pool"
 	"github.com/golang/snappy"
 )
 

@@ -1,1 +1,3 @@
-# golib-0.4.3
+# golib
+
+Common go packages.
